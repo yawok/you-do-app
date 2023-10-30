@@ -43,4 +43,7 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="task_screen_heading">Tasks</string>
+    <string name="new_task_hint">Enter a task</string>
+    <string name="save_task_button_test">Save</string>
 </resources>
