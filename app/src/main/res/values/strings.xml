@@ -46,4 +46,5 @@
     <string name="task_screen_heading">Tasks</string>
     <string name="new_task_hint">Enter a task</string>
     <string name="save_task_button_test">Save</string>
+    <string name="splash_screen_text">You Do</string>
 </resources>

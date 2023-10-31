@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.youdo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.youdo"
