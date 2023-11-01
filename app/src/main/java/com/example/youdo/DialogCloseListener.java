@@ -1,2 +1,7 @@
-package com.example.youdo;public interface DialogCloseListener {
+package com.example.youdo;
+
+import android.content.DialogInterface;
+
+public interface DialogCloseListener {
+    public void handleDialogClose(DialogInterface dialog);
 }
